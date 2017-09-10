@@ -1,0 +1,2 @@
+SillyString, Spray string from a can, 000001, 12.0
+CoorsLight, Beer that fairly cheep, 000002, 10.95
